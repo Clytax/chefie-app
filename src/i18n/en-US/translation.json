@@ -1,0 +1,10 @@
+{
+  "base": {
+    "login": "Login",
+    "later": "Later"
+  },
+  "welcomeScreen": {
+    "slogan": "Help your path to health goals with happiness",
+    "createAccount": "Create New Account"
+  }
+}

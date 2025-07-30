@@ -1,0 +1,10 @@
+{
+  "base": {
+    "login": "Anmelden",
+    "later": "Später"
+  },
+  "welcomeScreen": {
+    "slogan": "Erreiche deine Gesundheitsziele mit Freude",
+    "createAccount": "Neues Konto erstellen"
+  }
+}
